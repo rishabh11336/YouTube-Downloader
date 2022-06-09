@@ -6,3 +6,5 @@ Youtube downloader using Python
 Using: Python, moviepy, pytube, tkinter, shutil
 
 ![Screenshot 2022-06-09 083022](https://user-images.githubusercontent.com/67859818/172755346-b5b2b070-3717-477b-9572-1f42297875dd.jpg)
+
+Clone or Download all the file to run exe.
